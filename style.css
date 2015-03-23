@@ -1,0 +1,57 @@
+body {
+    margin: 0 0 0 0;
+}
+
+.startpage {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.slider-1 {
+    position: relative;
+    float: left;
+    width: 20%;
+    height: 100%;
+    background-color: aqua;
+}
+
+.slider-2 {
+    position: relative;
+    float: left;
+    width: 20%;
+    height: 100%;
+    background-color: antiquewhite;
+}
+
+.slider-3 {
+    position: relative;
+    float: left;
+    width: 20%;
+    height: 100%;
+    background-color: coral;
+}
+
+.slider-4 {
+    position: relative;
+    float: left;
+    width: 20%;
+    height: 100%;
+    background-color: darksalmon;
+}
+
+.slider-5 {
+    position: relative;
+    float: left;
+    width: 20%;
+    height: 100%;
+    background-color: darkorange;
+}
+
+.content {
+    width: 100%;
+    height: 100%;
+    background-color: ivory;
+    text-align: center;
+    position: absolute;
+}
